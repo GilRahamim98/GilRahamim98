@@ -16,7 +16,7 @@ I am a self taught Full Stack Developer.
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,angular,nodejs,mongodb,mysql,nodejs,express,nestjs,postman,graphql" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,javascript,typescript,react,nextjs,angular,nodejs,mongodb,mysql,nodejs,express,nestjs,postman,graphql" />
   </a>
 </p>
 
